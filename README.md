@@ -130,8 +130,11 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detal
 👨‍💻 Autor
 
 Lucero Miluc - @Luceromilucm
+
 JhossCol - @Jhosscol 
+
 Yennybel01 - @Yennybel01
+
 Sadith14 - @Sadith14
 
 
