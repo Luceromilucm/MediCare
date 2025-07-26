@@ -124,12 +124,15 @@ Push a la rama (git push origin feature/AmazingFeature)
 Abre un Pull Request
 
 📄 Licencia
+
 Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
+
 👨‍💻 Autor
+
 Lucero Miluc - @Luceromilucm
 JhossCol - @Jhosscol 
 Yennybel01 - @Yennybel01
-
+Sadith14 - @Sadith14
 
 
 MediCare - Cuidando a quienes más queremos con tecnología inteligente 💙
