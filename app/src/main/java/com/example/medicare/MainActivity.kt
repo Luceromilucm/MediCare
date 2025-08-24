@@ -404,8 +404,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
 
         // Configurar Telegram si ya está configurado
         val prefs = getSharedPreferences("emergencia_config", MODE_PRIVATE)
-        val botToken = prefs.getString("telegram_bot_token", "8371828159:AAEnJ842z7SE7bqaZ6dHFQuk5NiLhI28Z_M")
-        val chatId = prefs.getString("telegram_chat_id", "1510586853")
+        val botToken = prefs.getString("telegram_bot_token", "")//Completar con el tuyo
+        val chatId = prefs.getString("telegram_chat_id", "")//ID del chat a cual se le enviara mensajes
 
         if (!botToken.isNullOrEmpty() && !chatId.isNullOrEmpty()) {
             agenteEmergencia.configurarTelegram(botToken, chatId)
